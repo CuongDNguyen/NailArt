@@ -16,3 +16,7 @@
     color: #293a80;
     font-size: 40px;
 }
+
+li:hover {
+    color: #621055;
+}
