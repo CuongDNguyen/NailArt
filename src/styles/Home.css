@@ -1,22 +1,12 @@
-#title {
-    font-size: 150px;
-    color: #c70d3a;
+#bodyPaper {
+    background-color: #fef6fb;
+    color: rebeccapurple;
 }
 
-#address, #phone, #hours {
-    font-size: 40px;
-    color: #39375b;
+#menuTitle {
+    margin-left: 25%;
 }
-
-#phoneNumber, #addressMaps {
-    color: #293a80;
-}
-
-.operationHours {
-    color: #293a80;
-    font-size: 40px;
-}
-
-li:hover {
-    color: #621055;
+#menuImage {
+    width: 100%;
+    height: 80%;
 }

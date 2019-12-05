@@ -1,0 +1,22 @@
+#title {
+    font-size: 150px;
+    color: #c70d3a;
+}
+
+#address, #phone, #hours, #walkIn {
+    font-size: 40px;
+    color: #39375b;
+}
+
+#phoneNumber, #addressMaps {
+    color: #293a80;
+}
+
+.operationHours {
+    color: #293a80;
+    font-size: 40px;
+}
+
+li:hover {
+    color: #621055;
+}

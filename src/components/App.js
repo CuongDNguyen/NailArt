@@ -1,8 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "../pages/Home";
+import Contact from "../pages/Contact";
 import NoMatch from "../pages/NoMatch";
-import Nav from "./Nav"
+import Nav from "./Nav";
+import Home from "../pages/Home";
+import NailMenu from "./NailMenu";
 
 const App = () => {
     return (
@@ -10,7 +12,8 @@ const App = () => {
             <Nav />
             <Switch>
                 <Route exact path="/" component={Home} />
-                <Route exact path="/test"/>
+                <Route exact path="/contact" component={Contact} />
+                <Route exact path="/menu" component={NailMenu} />
                 <Route component={NoMatch} />
             </Switch>
         </Router>
