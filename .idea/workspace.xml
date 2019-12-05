@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8514d8f-2dd1-4a20-a99a-4c3119446401" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/nail-pg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/nail-pg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/nail-pg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/nailart-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Designs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EmployeeList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NailMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NailMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +98,7 @@
       <updated>1575095333138</updated>
       <workItem from="1575095339098" duration="2951000" />
       <workItem from="1575155284312" duration="3988000" />
-      <workItem from="1575324318575" duration="10671000" />
+      <workItem from="1575324318575" duration="11076000" />
     </task>
     <servers />
   </component>

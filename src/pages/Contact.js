@@ -31,12 +31,9 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div id="walkIn">
+                    <div id="walkIn" className="offset-md-3 col-md-6">
                         Walk-in Welcomes and Appointments Accepted
                     </div>
-                </div>
-                <div className="row">
-                        <NailMenu />
                 </div>
             </div>
         </React.Fragment>
